@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/react-deploy/static/css/main.9d4a79da.chunk.css",
+    "main.js": "/react-deploy/static/js/main.288bd587.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.288bd587.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.3e11c617.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3e11c617.js.map",
+    "static/css/2.30234d7b.chunk.css": "/react-deploy/static/css/2.30234d7b.chunk.css",
+    "static/js/2.a668f3b6.chunk.js": "/react-deploy/static/js/2.a668f3b6.chunk.js",
+    "static/js/2.a668f3b6.chunk.js.map": "/react-deploy/static/js/2.a668f3b6.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.43859010bd2727f6da865b337fde8dc6.js": "/react-deploy/precache-manifest.43859010bd2727f6da865b337fde8dc6.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/2.30234d7b.chunk.css.map": "/react-deploy/static/css/2.30234d7b.chunk.css.map",
+    "static/css/main.9d4a79da.chunk.css.map": "/react-deploy/static/css/main.9d4a79da.chunk.css.map",
+    "static/js/2.a668f3b6.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.a668f3b6.chunk.js.LICENSE.txt",
+    "static/media/020.jpg": "/react-deploy/static/media/020.0ae9b394.jpg",
+    "static/media/1.jpg": "/react-deploy/static/media/1.4b12a5fc.jpg",
+    "static/media/2.jpg": "/react-deploy/static/media/2.f315d3a5.jpg",
+    "static/media/3.jpg": "/react-deploy/static/media/3.fe0433bf.jpg",
+    "static/media/44.jpg": "/react-deploy/static/media/44.f2d20b12.jpg",
+    "static/media/about-3.jpg": "/react-deploy/static/media/about-3.f4879096.jpg",
+    "static/media/blog-01.jpg": "/react-deploy/static/media/blog-01.b0399bf0.jpg",
+    "static/media/blog-02.jpg": "/react-deploy/static/media/blog-02.211dbbb6.jpg",
+    "static/media/blog-03.jpg": "/react-deploy/static/media/blog-03.968bf374.jpg",
+    "static/media/sec1.jpg": "/react-deploy/static/media/sec1.7e514712.jpg",
+    "static/media/sec2.jpg": "/react-deploy/static/media/sec2.20ca877a.jpg",
+    "static/media/sec3.jpg": "/react-deploy/static/media/sec3.70bceafd.jpg",
+    "static/media/sec4.jpg": "/react-deploy/static/media/sec4.637889bd.jpg",
+    "static/media/slick-theme.css": "/react-deploy/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e11c617.js",
+    "static/css/2.30234d7b.chunk.css",
+    "static/js/2.a668f3b6.chunk.js",
+    "static/css/main.9d4a79da.chunk.css",
+    "static/js/main.288bd587.chunk.js"
+  ]
+}
