@@ -1,0 +1,138 @@
+{
+    "social" : [
+        {
+            "id": 1,
+            "image" : "/images/icon-01.png",
+            "title" : "social startigy",
+            "body" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered"
+        },
+        {
+            "id": 2,
+            "image" : "/images/icon-02.png",
+            "title" : "Website Development",
+            "body" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        },
+        {
+            "id": 3,
+            "image" : "/images/icon-03.png",
+            "title" : "Marketing & Reporting",
+            "body" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        }
+    ] 
+    ,
+    "About" : [
+        {
+            "id": 1,
+            
+            "titlle" : "Who we are",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        },
+        {
+            "id": 2,
+        
+            "titlle" : "Who we are",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        }
+    ],
+    "services" : [
+        {
+            "id": 1,
+            "icon" : "icon fa fa-paste fa-lg",
+            "titlle" : "social startigy",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffered"
+        },
+        {
+            "id": 2,
+            "icon" : "icon fa fa-suitcase fa-lg",
+            "titlle" : "Website Development",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        },
+        {
+            "id": 3,
+            "icon" : "icon fa fa-users fa-lg",
+            "titlle" : "Marketing & Reporting",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        },
+        {
+            "id": 4,
+            "icon" : "icon fa fa-tv fa-lg",
+            "titlle" : "Mobile App Development",
+            "bodyy" : "There are many variations of passages of Lorem Ipsum available, but the majority have suffere"
+        }
+    ],
+    "images":[
+    {
+    "image":"/images/c.jpg"
+    },
+    {
+   "image":"/images/team-img1.jpg"
+    },
+    {
+  "image":"/images/team-img2.jpg"
+    },
+    {
+  "image":"/images/team-img3.jpg"
+    },
+    {
+  "image":"/images/team-img4.jpg"
+    }
+ 
+],
+"img":[
+    {
+        "image":"/images/team-img5.jpg"
+          },
+          {
+              "image":"/images/team-img6.jpg"
+          },
+          {
+         "image":"/images/team-img1.jpg"
+          }
+],
+"imagee":[
+    {
+        "image":"/images/blog-01.jpg" ,    "text":"John Doe"
+      
+    },
+    {
+            "image":"/images/blog-02.jpg" ,    "text":"John Doe"
+    
+    },
+    {
+            "image":"/images/blog-03.jpg",    "text":"John Doe"
+ 
+    }
+],
+"company":[{ "image":"/images/brand-01.png" },{ "image":"/images/brand-02.png" },{ "image":"/images/brand-03.png" },{ "image":"/images/brand-04.png" },{ "image":"/images/brand-06.png" }]
+,
+
+"teamimg":[
+    {"image":"/images/team-01.jpg",
+        "text":"Jone Due",
+        "textt":"Sr. Web Developer"
+    
+    },  {"image":"/images/team-02.jpg",
+        "text":"Fatima Asrafi",
+        "textt":"Front-end Engineer"
+    
+    },  {"image":"/images/team-03.jpg",
+        "text":"Al-Amin Bali",
+        "textt":"Sr. Graphic Designer"
+    
+    },  {"image":"/images/team-05.jpg",
+        "text":"Jone Due",
+        "textt":"Sr. Web Developer"
+    
+    },  {"image":"/images/team-06.jpg",
+        "text":"Fatima Asrafi",
+        "textt":"Front-end Engineer"
+    
+    },  {"image":"/images/team-12.jpg",
+        "text":"Al-Amin Bali",
+        "textt":"Sr. Graphic Designer"
+    
+    }
+]
+
+}
+
