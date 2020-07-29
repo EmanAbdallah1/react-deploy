@@ -1,12 +1,16 @@
 import React from 'react';
 import axios from 'axios';
+import myJson from '../Data/data.json'
 
 class Company extends React.Component{
     state={
         company:[]
     }
     componentDidMount(){
-        axios.get('js/data.json').then(res=>{ this.setState({company: res.data.company})})  
+        this.setState({
+            company: myJson["company"]
+        })
+        // axios.get('js/data.json').then(res=>{ this.setState({company: res.data.company})})
     }
     render(){
         const{company}=this.state;

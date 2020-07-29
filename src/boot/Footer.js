@@ -1,4 +1,13 @@
 import React from 'react';
+import twoo from '../02.jpg';
+import threee from '../03.jpg';
+import onee from '../010.jpg';
+import twwoo from '../020.jpg';
+import thrre from '../030.jpg';
+import four from '../040.jpg';
+
+
+
 class Footer extends React.Component{
     render(){
         return(
@@ -30,7 +39,7 @@ class Footer extends React.Component{
         <div className="footer-widget-content">
           <div className="media">
               <div className="media-left">
-                 <a href="#"><img className="media-object" src="images/03.jpg" alt="..."/></a>
+                 <a href="#"><img className="media-object" src={threee} alt="..."/></a>
               </div>
               <div className="media-body">
                  <p><a href="#">vulputate velit esse consequat. </a></p>
@@ -38,7 +47,7 @@ class Footer extends React.Component{
            </div>
           <div className="media">
               <div class="media-left">
-                 <a href="#."><img class="media-object" src="images/02.jpg" alt="..."/></a>
+                 <a href="#"><img class="media-object" src={twoo} alt="..."/></a>
               </div>
               <div className="media-body">
                  <p><a href="#">vulputate velit esse consequat. </a></p>
@@ -69,10 +78,10 @@ class Footer extends React.Component{
         <div className="footer-widget-content">
           <div className="images-gellary">
             <ul>
-              <li><a href="#"><img src="images/010.jpg" alt="Instagram 01"/></a></li>
-              <li><a href="#"><img src="images/020.jpg"  alt="Instagram 02"/></a></li>
-              <li><a href="#"><img src="images/030.jpg"  alt="Instagram 03"/></a></li>
-              <li><a href="#"><img src="images/040.jpg"  alt="Instagram 04"/></a></li>
+              <li><a href="#"><img src={onee}alt="Instagram 01"/></a></li>
+              <li><a href="#"><img src={twwoo}  alt="Instagram 02"/></a></li>
+                <li><a href="#"><img src={onee}alt="Instagram 01"/></a></li>
+              <li><a href="#"><img src={four}  alt="Instagram 04"/></a></li>
    
             </ul>
           </div>

@@ -1,24 +1,34 @@
 import React from 'react';
-import logo from './logo.svg';
+import Navv from './boot/Navv';
 import './App.css';
-
+import Opinion from './boot/Opinion';
+import News from './boot/News';
+import Team from './boot/Team';
+import Rep from './boot/Rep';
+import Social from './boot/Social'
+import Slider from './boot/Slider';
+import About from './boot/About';
+import Service from './boot/Service';
+import Secslider from './boot/Secslider';
+import Counter from'./boot/Counter';
+import Company from './boot/Company'
+import Footer from './boot/Footer'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navv/>
+      <Rep/>
+      <Slider/>
+      <Social/>
+      <About/>
+      <Service/>
+        <Secslider/>
+        <Counter/>
+        <Team/>
+        <Opinion/>
+        <News/>
+        <Company/>
+        <Footer/>
     </div>
   );
 }

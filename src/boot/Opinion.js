@@ -1,5 +1,6 @@
 import React from 'react';
 import axios from 'axios';
+import myJson from '../Data/data.json'
 
 class Opinion extends React.Component{
     state={
@@ -7,9 +8,12 @@ class Opinion extends React.Component{
         img:[]
     }
     componentDidMount(){
-        axios.get('js/data.json').then(res=>{ this.setState({images: res.data.images})})  ;
-        axios.get('js/data.json').then(res=>{ this.setState({img: res.data.img})})  ;
-
+        // axios.get('js/data.json').then(res=>{ this.setState({images: res.data.images})})  ;
+        // axios.get('js/data.json').then(res=>{ this.setState({img: res.data.img})})  ;
+        this.setState({
+            images: myJson["images"],
+            img: myJson["img"]
+        })
        
     }
     render(){

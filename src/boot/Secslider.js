@@ -2,6 +2,11 @@ import React from 'react';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import Slider from "react-slick";
+import sec1 from '../sec1.jpg';
+import sec2 from '../sec2.jpg';
+import sec3 from '../sec3.jpg';
+import sec4 from '../sec4.jpg';
+
 
 class Secslider extends React.Component{
 render(){
@@ -56,7 +61,7 @@ render(){
 
 
         <div class="container">
-  <img src="images/sec1.jpg" alt="Avatar" class="image"/>
+  <img src={sec1} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -67,7 +72,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec2.jpg" alt="Avatar" class="image"/>
+  <img src={sec2} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -78,7 +83,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec3.jpg" alt="Avatar" class="image"/>
+  <img src={sec3} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -89,7 +94,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec4.jpg" alt="Avatar" class="image"/>
+  <img src={sec4} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -100,7 +105,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec1.jpg" alt="Avatar" class="image"/>
+  <img src={sec1} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -111,7 +116,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec2.jpg" alt="Avatar" class="image"/>
+  <img src={sec2} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -122,7 +127,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec3.jpg" alt="Avatar" class="image"/>
+  <img src={sec3} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
@@ -133,7 +138,7 @@ render(){
   </div>
 </div>
 <div class="container">
-  <img src="images/sec4.jpg" alt="Avatar" class="image"/>
+  <img src={sec4} alt="Avatar" class="image"/>
   <div class="overlay">
   <div className="text">
         <p>Development</p>
